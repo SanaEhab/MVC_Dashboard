@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Task.BLL/1.0.0": {
+        "dependencies": {
+          "Task.DAL": "1.0.0"
+        },
+        "runtime": {
+          "Task.BLL.dll": {}
+        }
+      },
+      "Task.DAL/1.0.0": {
+        "runtime": {
+          "Task.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Task.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

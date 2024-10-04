@@ -1,0 +1,11 @@
+C:\Users\Tech House\source\repos\Projects\Task\Task.DAL\bin\Debug\net8.0\Task.DAL.deps.json
+C:\Users\Tech House\source\repos\Projects\Task\Task.DAL\bin\Debug\net8.0\Task.DAL.dll
+C:\Users\Tech House\source\repos\Projects\Task\Task.DAL\bin\Debug\net8.0\Task.DAL.pdb
+C:\Users\Tech House\source\repos\Projects\Task\Task.DAL\obj\Debug\net8.0\Task.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tech House\source\repos\Projects\Task\Task.DAL\obj\Debug\net8.0\Task.DAL.AssemblyInfoInputs.cache
+C:\Users\Tech House\source\repos\Projects\Task\Task.DAL\obj\Debug\net8.0\Task.DAL.AssemblyInfo.cs
+C:\Users\Tech House\source\repos\Projects\Task\Task.DAL\obj\Debug\net8.0\Task.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Tech House\source\repos\Projects\Task\Task.DAL\obj\Debug\net8.0\Task.DAL.dll
+C:\Users\Tech House\source\repos\Projects\Task\Task.DAL\obj\Debug\net8.0\refint\Task.DAL.dll
+C:\Users\Tech House\source\repos\Projects\Task\Task.DAL\obj\Debug\net8.0\Task.DAL.pdb
+C:\Users\Tech House\source\repos\Projects\Task\Task.DAL\obj\Debug\net8.0\ref\Task.DAL.dll
